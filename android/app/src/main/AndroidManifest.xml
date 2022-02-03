@@ -2,7 +2,7 @@
     package="com.nadiaputri.uself">
    <application
         android:label="uself"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/logo">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
